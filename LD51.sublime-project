@@ -2,24 +2,7 @@
 	"folders":
 	[
 		{
-			"follow_symlinks": true,
-			"name": "LD51",
-			"path": "Y:\\games/ld50"
-		},
-		{
-			"follow_symlinks": true,
-			"name": "Flixel",
-			"path": "C:\\HaxeToolkit\\haxe\\lib\\flixel/4,11,0/"
-		},
-		{
-			"follow_symlinks": true,
-			"name": "Flixel Addons",
-			"path": "C:\\HaxeToolkit\\haxe\\lib\\flixel-addons/2,11,0/"
-		},
-		{
-			"follow_symlinks": true,
-			"name": "Haxe",
-			"path": "C:\\HaxeToolkit\\haxe/std"
+			"path": "/C/users/crossover/Desktop/My Android Downloads/games/LD51"
 		}
 	]
 }
