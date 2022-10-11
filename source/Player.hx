@@ -7,6 +7,7 @@ import flixel.FlxG;
 class Player extends FlxSprite {
 	var jt:Float;
 	var j:Bool;
+	//player go brrrrrrrrr
 	public function new(x:Float,y:Float)
 	{
 	    	super(x,y);
