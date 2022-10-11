@@ -144,6 +144,14 @@
 			}
 		},
 		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 9,
+				"line_ending": "Windows"
+			}
+		},
+		{
 			"file": "source/EndState.hx",
 			"settings":
 			{
@@ -160,7 +168,7 @@
 			}
 		},
 		{
-			"file": "/Y/games/ld50/ld50.sublime-project",
+			"file": "/Y/games/ld50/LD51.sublime-project",
 			"settings":
 			{
 				"buffer_size": 442,
@@ -255,7 +263,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -298,8 +306,8 @@
 						"selection":
 						[
 							[
-								5166,
-								5166
+								5057,
+								5057
 							]
 						],
 						"settings":
@@ -307,14 +315,40 @@
 							"haxe-build-id": 0,
 							"syntax": "Packages/Haxe/Haxe.tmLanguage"
 						},
-						"translation.x": 1.0,
-						"translation.y": 2651.0,
+						"translation.x": 0.0,
+						"translation.y": 2322.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 9,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "source/EndState.hx",
 					"settings":
 					{
@@ -342,7 +376,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "source/Player.hx",
 					"settings":
 					{
@@ -370,8 +404,8 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "/Y/games/ld50/ld50.sublime-project",
+					"buffer": 5,
+					"file": "/Y/games/ld50/LD51.sublime-project",
 					"settings":
 					{
 						"buffer_size": 442,
@@ -381,8 +415,8 @@
 						"selection":
 						[
 							[
-								442,
-								442
+								95,
+								95
 							]
 						],
 						"settings":
