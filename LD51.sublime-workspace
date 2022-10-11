@@ -158,6 +158,14 @@
 				"buffer_size": 962,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "/Y/games/ld50/ld50.sublime-project",
+			"settings":
+			{
+				"buffer_size": 442,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -200,6 +208,7 @@
 	},
 	"file_history":
 	[
+		"/Y/games/ld50/ld50.sublime-project",
 		"/Y/games/ld50/assets/data/lv1.tmx",
 		"/Y/games/ld50/source/Player.hx",
 		"/Y/games/ld50/Project.xml",
@@ -246,7 +255,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -316,8 +325,8 @@
 						"selection":
 						[
 							[
-								282,
-								282
+								291,
+								291
 							]
 						],
 						"settings":
@@ -356,6 +365,33 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 402.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Y/games/ld50/ld50.sublime-project",
+					"settings":
+					{
+						"buffer_size": 442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								442,
+								442
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
